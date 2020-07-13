@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:20px; height:200px">
+<div style="width:20px; height:200px;background-color:pink">
     OK Siap
 </div>
