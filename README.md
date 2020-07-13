@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+    a{
+        color:#292382;
+        text-decoration:none;
+    }
+</style>
 <div style="width:20px; height:200px;background-color:pink">
     OK Siap
 </div>
