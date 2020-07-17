@@ -18,4 +18,6 @@ Here are some ideas to get you started:
     OK Siap
     <img src="https://source.unsplash.com/random/1>
               </div>
+              <div>
               Blum Bikin , masi kerja Bsok pas sepi baru buat :v
+              </div>
