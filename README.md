@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:20px; height:200px;background-color:pink">
-    OK Siap
-    <img src="https://source.unsplash.com/random/1">
+<div>
+    <img src="https://source.unsplash.com/random/400x300">
  </div>
 <div>
 Blum Bikin , masi kerja Bsok pas sepi baru buat :v
