@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 <div style="width:20px; height:200px;background-color:pink">
     OK Siap
     <img src="https://source.unsplash.com/random/1>
-</div>
-<a href="https://github.com/xxidbr9">Here Broh</a>
-<h1>OK</h1>
+              </div>
+              Blum Bikin , masi kerja Bsok pas sepi baru buat :v
