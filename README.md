@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **xxidbr9/xxidbr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-    <img src="https://source.unsplash.com/random/400x300">
- </div>
-<div>
-Blum Bikin , masi kerja Bsok pas sepi baru buat :v
-</div>
+## TUKANG BANGUNAN TERAKREDITASI
