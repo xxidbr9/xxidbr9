@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.png" >
-### TUKANG BANGUNAN TERAKREDITASI
+<h1 align="center"> TUKANG BANGUNAN TERAKREDITASI </h1>
