@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.png" >
 <h1 align="center"> TUKANG BANGUNAN TERAKREDITASI </h1>
+-->
+<h1 align="center">KULI JAWA</h1>
