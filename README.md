@@ -78,10 +78,10 @@
       alt="typescript" width="40" height="40" /> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxidbr9&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=xxidbr9&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
     alt="xxidbr9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxidbr9&" alt="xxidbr9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xxidbr9&theme=dark&hide_border=true" alt="xxidbr9" /></p>
 <br/><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xxidbr9"><img align="left"
