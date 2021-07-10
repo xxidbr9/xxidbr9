@@ -109,7 +109,7 @@
   <a href="https://dribbble.com/xxidbr9" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
       alt="xxidbr9" height="30" width="40" /></a>
-  <a href="https://medium.com/xxidbr9" target="blank"><img align="center"
+  <a href="https://xxidbr9.medium.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="xxidbr9" height="30" width="40" /></a>
 </p>
