@@ -1,3 +1,8 @@
+<style>
+   td, th {
+    border: 0px !important;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Nando</h1>
 <h3 align="center">I'm a Hooman</h3>
 <br>
@@ -78,15 +83,23 @@
       alt="typescript" width="40" height="40" /> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=xxidbr9&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
+<table>
+      <tr>
+            <td>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=xxidbr9&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
     alt="xxidbr9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xxidbr9&theme=dark&hide_border=true" alt="xxidbr9" /></p>
+            </td>
+            <td>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=xxidbr9&theme=dark&hide_border=true" alt="xxidbr9" /></p>
+            </td>
+      </tr>
+</table>
 <br/><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xxidbr9"><img align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xxidbr9" /></a></p>
-<br/><br/>
+
+      <br/><br/>
 &nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
