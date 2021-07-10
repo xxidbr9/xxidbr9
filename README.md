@@ -78,6 +78,7 @@
       alt="typescript" width="40" height="40" /> </a>
 </p>
 
+<h3 align="left">Github Stats:</h3>
 <table>
       <tr>
             <td>
@@ -89,11 +90,11 @@
             </td>
       </tr>
 </table>
-<br/><br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xxidbr9"><img align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xxidbr9" /></a></p>
-<br/><br/>
+<br/><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/xxidbr9" target="blank"><img align="center"
