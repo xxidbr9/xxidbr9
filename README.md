@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nando</h1>
 <h3 align="center">I'm a Hooman</h3>
 <br>
-
+<!---- 
 <h3 align="left">Languages and Tools I've Been Used:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -77,7 +77,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" /> </a>
 </p>
-
+--->
 <h3 align="left">Github Stats:</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/?username=xxidbr9&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
