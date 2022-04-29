@@ -106,8 +106,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="xxidbr9" height="30" width="40" /></a>
 </p>
-![Nando's Github Stats](https://github-readme-stats.vercel.app/api?username=xxidbr9&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxidbr9&hide=TeX&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxidbr9&hide=TeX&layout=compact" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xxidbr9.xxidbr9)
 
