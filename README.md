@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nando</h1>
+<!-- <h1 align="center">Hi 👋, I'm Nando</h1>
 <h3 align="center">I'm a Hooman</h3>
-<br>
+<br> -->
 <!---- 
 <h3 align="left">Languages and Tools I've Been Used:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img
@@ -88,7 +88,7 @@
 <p ><a href="https://www.buymeacoffee.com/xxidbr9"><img align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xxidbr9" /></a></p>
 <br/><br>             -->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/xxidbr9" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xxidbr9" height="30"
@@ -105,7 +105,7 @@
   <a href="https://xxidbr9.medium.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="xxidbr9" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- 
 **xxidbr9/xxidbr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
